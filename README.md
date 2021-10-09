@@ -24,7 +24,7 @@ Remix after the KaseiCoin crowdsale has been successfully deployed is shown belo
 ![](Images/CrowdsaleDeployRemix.png)
 \
 \
-Metamask screenshot showing gas fee taken from initial account balance of 100 ether following successful deployment of crowdsale:
+Metamask screenshot showing gas fee taken from initial account balance of 100 ether following successful deployment of crowdsale:\
 ![](Images/CrowdsaleDeployMetamask.png)
 \
 \
@@ -48,7 +48,7 @@ Now purchase 2 ether's worth of tokens so can see the results in the account bal
 ![](Images/Buy2Ether-1.png)
 \
 \
-Purchaser's account balance in MetaMask after purchase:
+Purchaser's account balance in MetaMask after purchase:\
 ![](Images/Buy2Ether-2.png)
 \
 \
